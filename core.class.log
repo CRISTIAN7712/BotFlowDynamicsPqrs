@@ -1,0 +1,361 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09060CC4405C20379',
+    participant: undefined
+  },
+  messageTimestamp: 1677651929,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'd',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB033AFD118016AFF32',
+    participant: undefined
+  },
+  messageTimestamp: 1677651932,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'crdiaz@umariana.edu.co',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'crdiaz@umariana.edu.co',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05BC770AD96E9B078',
+    participant: undefined
+  },
+  messageTimestamp: 1677651935,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B5D387F34500244E',
+    participant: undefined
+  },
+  messageTimestamp: 1677651938,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FB4A4B67DC693105',
+    participant: undefined
+  },
+  messageTimestamp: 1677651941,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'wedfdcsfd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'wedfdcsfd',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00D9D4C28C7975B81',
+    participant: undefined
+  },
+  messageTimestamp: 1677651946,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F9437E35C70C461E',
+    participant: undefined
+  },
+  messageTimestamp: 1677651949,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0317ECF3672AB352F',
+    participant: undefined
+  },
+  messageTimestamp: 1677651952,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C8232845C6849E93',
+    participant: undefined
+  },
+  messageTimestamp: 1677651955,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0757FA70F5A9F797D',
+    participant: undefined
+  },
+  messageTimestamp: 1677651958,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'vdsfvdsg',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'vdsfvdsg',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F2BFE9E9228A8635',
+    participant: undefined
+  },
+  messageTimestamp: 1677651960,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB057E55ACAD44C13D7',
+    participant: undefined
+  },
+  messageTimestamp: 1677651963,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB026F9DFE49798DDC0',
+    participant: undefined
+  },
+  messageTimestamp: 1677651966,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EBCFB7F8E878B9E4',
+    participant: undefined
+  },
+  messageTimestamp: 1677651975,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB085D61B278645DBC5',
+    participant: undefined
+  },
+  messageTimestamp: 1677651978,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'ewrgrewgv',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ewrgrewgv',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0921590D81F6C6957',
+    participant: undefined
+  },
+  messageTimestamp: 1677651980,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02DAB2FF900C69F57',
+    participant: undefined
+  },
+  messageTimestamp: 1677651982,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB088E46893CF286416',
+    participant: undefined
+  },
+  messageTimestamp: 1677651985,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573165344370'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165344370@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB099611122E46197BE',
+    participant: undefined
+  },
+  messageTimestamp: 1677651988,
+  pushName: 'Cristian Diaz😎',
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573165344370'
+}

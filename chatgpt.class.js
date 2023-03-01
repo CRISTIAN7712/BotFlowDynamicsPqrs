@@ -1,19 +1,22 @@
+require('dotenv').config()
 const { CoreClass} = require('@bot-whatsapp/bot');
 class ChatGPTClass extends CoreClass{
 
     queue = [];
     optionsGPT = {model : "text-davinci-003"};
     openai = undefined;
-    constructor(_database, _provider, _optionsGPT = {}){
+
+
+    constructor(_database, _provider){
         super(null, _database, _provider);
-        this.optionsGPT = {...this.optionsGPT, ..._optionsGPT};
+        //this.optionsGPT = {...this.optionsGPT, ..._optionsGPT};
         this.init().then();
     }
 
     init = async() =>{
         const {ChatGPTAPI} = await import("chatgpt");
         this.openai = new ChatGPTAPI({
-            apiKey: process.env.OPENAI_API_KEY,
+        apiKey: process.env.OPENAI_API_KEY,
         })
     }
 

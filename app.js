@@ -1,4 +1,4 @@
-
+//require('dontenv').config();
 const { 
     createBot, 
     createProvider, 
@@ -35,7 +35,7 @@ const flowPregunta = addKeyword(['1', 'uno', 'número 1', 'número uno', 'numero
     
       '📄 A continuación podrás escribir tu pregunta acerca de tu proceso investigativo',
       '','',
-      '👉 *0* Para finalizar esta opcion 😉'       
+      '👉 *0* Para finalizar esta opcion 😉 '       
     ],
     null,
     null,
@@ -61,7 +61,9 @@ const flowFechas = addKeyword(['2', 'dos', 'número dos', 'número 2', 'numero d
     .addAnswer('¿Cual es tu peticion?',{ capture:true }, async (ctx, {flowDynamic}) => { 
     const peticion = ctx.body 
     console.log(peticion)
-    return flowDynamic(`Tu peticion fue recibida con exito\n👉 *0* Para finalizar esta opcion 😉`)
+    return flowDynamic(`Tu peticion fue recibida con exito
+    \n👉 *Menu* Para finalizar regresar al menú principal 😉
+    \n👉 *0* Para finalizar esta opcion 😉`)
 
 
 },[flowSecundario])
